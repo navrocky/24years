@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Tools/qmldir</file>
+        <file>Tools/units.qml</file>
+    </qresource>
+</RCC>
